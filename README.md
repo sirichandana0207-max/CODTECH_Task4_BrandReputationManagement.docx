@@ -24,3 +24,6 @@ This project contains a comprehensive Brand Reputation Management strategy devel
 - Microsoft Word
 - Digital Marketing Strategies
 Created as part of CODTECH Digital Marketing Internship.
+
+**OUTPUT**
+[CODTECH_Task4_BrandReputationManagement.pdf](https://github.com/user-attachments/files/27888953/CODTECH_Task4_BrandReputationManagement.pdf)
